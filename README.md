@@ -1,4 +1,4 @@
-# Kultiv — Habit Tracker
+# Kultiv — Habit Tracker (KultiApp2026)
 
 A professional, innovative habit tracker mobile app built with Flutter. Build better habits one day at a time.
 
@@ -28,7 +28,8 @@ A professional, innovative habit tracker mobile app built with Flutter. Build be
 3. **Install dependencies and run**
 
    ```bash
-   cd c:\Kultiv
+   git clone https://github.com/kartik480/KultiApp2026.git
+   cd KultiApp2026
    flutter pub get
    flutter run
    ```
